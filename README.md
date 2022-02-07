@@ -16,6 +16,9 @@
     - Oracle
     - Cassandra
  - Splunk
+ - PowerBI, DAX
+ - Advance Excel, VBA, Macro, Excel based Automation and Tools
+ - Automation
 
 <!---
 jit-sharma/jit-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
